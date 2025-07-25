@@ -6,17 +6,18 @@ A simple DIY URL web-crawler build in golang for learning purposes.
 Used as a CLI Tool.
 
 ---
- 
+
 <details>
 <summary><strong>Dependencies</strong></summary>
 <br>
+ 
 - Go v1.24.4
-<br>
+ 
 - [cobra](https://github.com/spf13/cobra).
-
+ 
 - [go-pretty](https://github.com/jedib0t/go-pretty?tab=readme-ov-file).
-</details>
 
+</details>
 ---
 
 <details>
