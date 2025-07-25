@@ -18,6 +18,7 @@ Used as a CLI Tool.
 - [go-pretty](https://github.com/jedib0t/go-pretty?tab=readme-ov-file).
 
 </details>
+
 ---
 
 <details>
